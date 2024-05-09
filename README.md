@@ -26,7 +26,16 @@ Welcome to the Reading Notes website! This is a dedicated space for my journy an
 
 ### [Code 102](/Documentation/Code401.md)
 
-<!-- ## [Classes](CLASSES.md) -->
+## Markdown Features
+
+Markdown is a lightweight markup language with plain-text formatting syntax. Here are five features that make it great for writing on the web:
+
+1. **Bold** - Use `**` or `__` to make text bold.
+2. *Italics* - Use `*` or `_` to italicize text.
+3. Links - Use `text` to create hyperlinks.
+4. `Inline Code` - Use backticks to create inline code.
+5. Code Blocks for larger code segments or examples.
+
 ## [Git](/Documentation/Git.md)
 
 ## [SQL](/Documentation/SQL.md)
