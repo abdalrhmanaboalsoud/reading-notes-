@@ -1,8 +1,8 @@
 # SQL
 
-![SQL](asstes/sql.png)
+![SQL](../asstes/sql.png)
 
-## Relational Databases:
+## Relational Databases
 
 - Organize data into tables (rows and columns).
 - Tables have relationships with each other through keys.
@@ -14,7 +14,7 @@
   - Isolation: Transactions do not interfere with each other.
   - Durability: Once a transaction is committed, it remains so.
 
-## SQL (Structured Query Language):
+## SQL (Structured Query Language)
 
 - The language used to interact with relational databases.
 - Consists of commands to create, read, update, and delete data.
