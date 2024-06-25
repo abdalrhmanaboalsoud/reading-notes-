@@ -12,19 +12,19 @@ Welcome to the Reading Notes website! This is a dedicated space for my journy an
 
 *An in-depth exploration of the basics of web development, including HTML, CSS, and JavaScript.*
 
-### [Code 102](/Documentation/Code201.md)
+### [Code 201](/Documentation/Code201.md)
 
 ## Code 301 - Intermediate Software Development
 
 *Advanced topics in web development, focusing on full-stack development with modern frameworks and libraries.*
 
-### [Code 102](/Documentation/Code301.md)
+### [Code 301](/Documentation/Code301.md)
 
 ## Code 401 - Advanced Software Development
 
 *Specialized courses that delve into complex software development topics and prepare you for a professional career in the industry.*
 
-### [Code 102](/Documentation/Code401.md)
+### [Code 401](/Documentation/Code401.md)
 
 ## Markdown Features
 
