@@ -17,7 +17,43 @@ Content of class 1 goes here.
 
 ## Class 2
 
-Content of class 2 goes here.
+
+## SQL vs. NoSQL
+
+### SQL Databases
+
+- **Relational and structured**: Use schemas to define data structure.
+- **Good for complex queries and transactions**.
+- **ACID properties**: Atomicity, Consistency, Isolation, Durability.
+- **Examples**: MySQL, PostgreSQL, Oracle.
+
+### NoSQL Databases
+
+- **Non-relational and schema-less**: Designed for distributed data stores.
+- **Handles large volumes of unstructured data**.
+- **Suitable for big data and real-time web apps**.
+- **Types**: Document, key-value, wide-column, graph databases.
+- **Examples**: MongoDB, Redis, Cassandra.
+
+## What is an ORM?
+
+- **Object-Relational Mapping (ORM)**: Allows interaction with databases using programming languages instead of SQL.
+- **Maps database tables to classes and rows to objects**: Simplifies database interactions and reduces boilerplate code.
+- **Examples**: 
+  - SQLAlchemy (Python)
+  - Hibernate (Java)
+  - Entity Framework (.NET).
+
+## Django Models
+
+- **Django Models**: Define database structure using Python classes.
+- **Each model corresponds to a database table**: Class attributes represent fields.
+- **Django ORM**: Handles CRUD operations without raw SQL.
+- **Features**:
+  - Relationships between tables (foreign keys).
+  - Model inheritance.
+  - Custom methods.
+  - Built-in validation.
 
 ## Class 3
 
